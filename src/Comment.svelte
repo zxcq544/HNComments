@@ -7,6 +7,10 @@
         comments.items[comment_id_to_hide].show_answers = !comments.items[comment_id_to_hide].show_answers;
         console.log(`after ${comments.items[comment_id_to_hide].show_answers}`);
     }
+    function show_answers(comment_id_to_show_answers) {
+        comments.items[comment_id_to_show_answers].show_answers =
+            !comments.items[comment_id_to_show_answers].show_answers;
+    }
     export let comments;
     export let comment_id;
 </script>
@@ -27,6 +31,12 @@
                         time={comments.items[kid_1_id].time}
                         text={comments.items[kid_1_id].text}
                     />
+                    {#if comments.items[kid_1_id].kids}
+                        <button on:click={() => show_answers(kid_1_id)}
+                            >Show answers
+                            {comments.items[kid_1_id].number_of_kids}
+                        </button>
+                    {/if}
 
                     {#if comments.items[kid_1_id].kids}
                         <svelte:self {comments} comment_id={kid_1_id} />
