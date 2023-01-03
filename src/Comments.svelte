@@ -287,6 +287,7 @@
                 "text": "Just curious but in what ways?<p>Me, I used Windows for years until ~2008. In 2008 I started using both Mac and Windows. In 2010 I started using Linux, Mac, and Windows. I never really found one better than another. Each one had their strengths, none of them had huge UI issue for me at least.<p>For example, one plus I find on Windows vs MacOS is I use Chrome with multiple profiles. Windows is able to display an icon per profile in the dock. Mac is not (not idea if this is a limitation of MacOS or Chrome on MacOS)<p>Another plus I find on Windows is zip support is better. On Mac, to use a zip you double click it and the OS uncompresses the zip. On Windows you double click it and Windows Explorer just looks inside the zip like it&#x27;s a folder. You can directly copy and paste, or drag and drop, files out of the zip into other folders or apps, no need to first unzip it.<p>I&#x27;m not saying Windows is better, just different. Windows 11 cleaned some things up. Explorer is streamlined compared to 10 for example.<p>Plenty of things I like on Mac, like Terminal with bash or zsh vs Powershell on Windows (though I can run WSL but for actual windows stuff I usually stick to powershell). Airplay I use often to stream to my TV.",
                 "time": 1666569344,
                 "type": "comment",
+                "show_answers": true,
             },
             33311833: {
                 "by": "buryat",
@@ -304,6 +305,7 @@
                 "text": "I’ve always been a Mac guy, but there’s no denying XP really stood the test of time.",
                 "time": 1666564473,
                 "type": "comment",
+                "show_answers": true,
             },
             33311064: {
                 "by": "warning26",
@@ -321,6 +323,7 @@
                 "text": "I noticed that too! I wonder what&#x27;s happening there. I searched the CSS and there&#x27;s nothing like green in there... Anyone have clues as to what&#x27;s causing the text within textboxes and such to be green?",
                 "time": 1666566060,
                 "type": "comment",
+                "show_answers": true,
             },
             33310980: {
                 "by": "int_19h",
@@ -330,6 +333,7 @@
                 "text": "There are some minor discrepancies. Window titlebars weren&#x27;t gradient in Win98 - that came in Win2k and WinME. The combobox dropdown has rounded ages (Win11 + Edge) and there&#x27;s a gap between it and the textbox. The tree view has different widths for &quot;+&quot; and &quot;-&quot; on the nodes, and neither is properly aligned with the dotted lines of the tree.<p>The biggest giveaway, though, is that you can drag to highlight text pretty much anywhere.",
                 "time": 1666564788,
                 "type": "comment",
+                "show_answers": true,
             },
             33311081: {
                 "by": "clnq",
@@ -339,6 +343,7 @@
                 "text": "The UIs around the year 2001 were fantastically accessible. The recent obsession with flatness undid a lot of good practices.",
                 "time": 1666565561,
                 "type": "comment",
+                "show_answers": true,
             },
             33310923: {
                 "by": "tomxor",
@@ -348,6 +353,7 @@
                 "text": "Totally agree.<p>Unix Motif, Windows 3&#x2F;95&#x2F;98, Classic MacOS... they were all highly usable. I crave the relentlessly, unashamed, unambiguousness of these old UIs, compared to modern UI which has devolved into something just as pretentious as the much hated skeuomorphism stage, only at the other end of the spectrum: extreme aesthetic minimalism at all cost (the user&#x27;s cost).",
                 "time": 1666564349,
                 "type": "comment",
+                "show_answers": true,
             },
             33311380: {
                 "by": "jeroenhd",
@@ -357,6 +363,7 @@
                 "text": "To give it some credit, CRTs handle such contrast quite differently to modern screen technologies. The CRT itself added a tiny bit of colour bleed and blurring and the fact the colour is radiated out (rather than filtered out, like on LCD based technologies) gave it more contrast than you&#x27;d think looking at these colours now.",
                 "time": 1666568444,
                 "type": "comment",
+                "show_answers": true,
             },
             33311087: {
                 "by": "quickthrower2",
@@ -390,6 +397,7 @@
                 "text": "Can Microsoft sue for something like this? Ethically I don’t think they should. But, can they?",
                 "time": 1666562462,
                 "type": "comment",
+                "show_answers": true,
             },
             33310821: {
                 "by": "laserdancepony",
@@ -399,6 +407,7 @@
                 "text": "There was no dark mode fad in 1998. Different color schemes for visually impaired people existed, but they were most often not very aesthetic.",
                 "time": 1666563434,
                 "type": "comment",
+                "show_answers": true,
             },
             33310771: {
                 "by": "girvo",
@@ -408,6 +417,7 @@
                 "text": "Honest question, because I don’t remember: does Windows 98?<p>I know you could edit the theme around to set the UI scheme colours to a darker one, but as a kid I could never make it look nice",
                 "time": 1666562927,
                 "type": "comment",
+                "show_answers": true,
             },
             33310937: {
                 "by": "raydiatian",
@@ -425,6 +435,7 @@
                 "text": "I would",
                 "time": 1666564581,
                 "type": "comment",
+                "show_answers": true,
             },
             33310988: {
                 "by": "atoav",
@@ -434,6 +445,7 @@
                 "text": "Consider that for some people that <i>terrible operating system</i> might have been the first system the have ever used, maybe as a kid.<p>I (an avid linux user who spends more time in the terminal than on a UI) certainly recall that my first contact with any computer with a keyboard was Windows 95. It was a complete mystery to me. The fascination that unexplainable object had on a 7 year old certainly had an effect on my life.<p>And guess what I remember? That grey interface with the blue title bar.<p>So as crappy as it might have been, as ethically unsound as the company who made it might have behaved themselves, the visual likeness of the system of my childhood tingles some old memories. And that is not even remotely odd. People can be nostalgic for literally everything, because we do not long for the old artifacts themselves, but for the feelings, friends and times we might have had when they were around.<p>For some of us the grey windows of Microsofts operating system have gained symbolic value beyond the aesthetical or functional qualities inherent to the system itself.",
                 "time": 1666564881,
                 "type": "comment",
+                "show_answers": true,
             },
             33310990: {
                 "by": "int_19h",
@@ -507,6 +519,7 @@
                 "text": 'Windows 98 used a gradient for its title bar [1]:<p><a href="https:&#x2F;&#x2F;microsoft.fandom.com&#x2F;wiki&#x2F;Windows_98?file=W98-2.png" rel="nofollow">https:&#x2F;&#x2F;microsoft.fandom.com&#x2F;wiki&#x2F;Windows_98?file=W98-2.png</a>',
                 "time": 1666565339,
                 "type": "comment",
+                "show_answers": true,
             },
             33311791: { "deleted": true, "id": 33311791, "parent": 33310980, "time": 1666572421, "type": "comment" },
             33311136: {
@@ -517,6 +530,7 @@
                 "text": "Styling drop-down contents in most modern browsers os either very limited or impossible. That&#x27;s why so many UI frameworks reimplement them from scratch, usually with the help of JavaScript",
                 "time": 1666566012,
                 "type": "comment",
+                "show_answers": true,
             },
             33311117: {
                 "by": "zozbot234",
@@ -526,6 +540,7 @@
                 "text": "I like the SerenityOS design choices.  Looks pretty much like a 2001-or-so UI, but adopting more modern design elements (such as, e.g. breadcrumb navigation widgets) where they actually make sense.",
                 "time": 1666565808,
                 "type": "comment",
+                "show_answers": true,
             },
             33311788: {
                 "by": "duskwuff",
@@ -551,6 +566,7 @@
                 "text": 'IANAL, but I think not.<p>I think this because there have been a plethora of tools and libraries over the decades (think Tk, WxWidgets, and similar) that emulate the native look-and-feel of the OS and I believe a company has to defend it&#x27;s IP&#x2F;copyrights otherwise it implicitly loses the ability to do so in the future.<p>See: <a href="https:&#x2F;&#x2F;www.varnumlaw.com&#x2F;insights&#x2F;enforce-your-intellectual-property-or-risk-losing-it&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.varnumlaw.com&#x2F;insights&#x2F;enforce-your-intellectual...</a><p>Consequently, this is why companies will so often be quick to &quot;attack&quot; random side projects people do targeting their IP (even very old IP). It isn&#x27;t necessarily out of a malicious desire so much as a legal requirement. If they don&#x27;t then a &quot;serious&quot; company can follow suit and then they have no ability to fight it.<p>Edit: to be clear, obviously they _can_ sue.',
                 "time": 1666563133,
                 "type": "comment",
+                "show_answers": true,
             },
             33310767: {
                 "by": "pmalynin",
@@ -568,6 +584,7 @@
                 "text": "You are correct. There was no OOTB dark mode in 1998. I remember it well because I wasted some time every now and then trying to make one using the appearance control panel. It was frustrating because I could come very close to a universal dark mode. But I remember certain types of text couldn&#x27;t have their color independently set. One of them (body text? can&#x27;t remember) used the same color as title bars. Which would make it unusable in a proper dark mode.<p>I guess I was slightly ahead of my time in wanting system wide dark mode. XP with the theming hacks made me very happy.",
                 "time": 1666569404,
                 "type": "comment",
+                "show_answers": true,
             },
             33311013: {
                 "by": "rietta",
@@ -585,6 +602,7 @@
                 "text": "it&#x27;s not a fad.",
                 "time": 1666563649,
                 "type": "comment",
+                "show_answers": true,
             },
             33311503: {
                 "by": "wishfish",
@@ -594,6 +612,7 @@
                 "text": "You could come close to a proper dark mode, but would fall short. That&#x27;s with using the color scheme editor in the control panels. I wasted too much time back in &#x27;98 trying to make a proper dark mode. Not that we called it that back then.<p>The downfall was a type of text (body text?) which used the same color as the titlebar. It couldn&#x27;t be independently set. Was a bit frustrating back then.<p>There were the high contrast modes back then, but they were too ugly to use unless you needed the contrast.",
                 "time": 1666569596,
                 "type": "comment",
+                "show_answers": true,
             },
             33310852: {
                 "by": "MisterTea",
@@ -603,6 +622,7 @@
                 "text": 'I do remember a high contrast mode. Quite garish with white text on black background with bright blues and I think yellow and red too.<p>I think this might be it: <a href="https:&#x2F;&#x2F;never-obsolete.tumblr.com&#x2F;post&#x2F;180144131029&#x2F;high-contrast-1" rel="nofollow">https:&#x2F;&#x2F;never-obsolete.tumblr.com&#x2F;post&#x2F;180144131029&#x2F;high-con...</a><p>edit: yellow and red is from win 3.1&#x27;s hotdog mode: <a href="https:&#x2F;&#x2F;blog.codinghorror.com&#x2F;a-tribute-to-the-windows-31-hot-dog-stand-color-scheme&#x2F;" rel="nofollow">https:&#x2F;&#x2F;blog.codinghorror.com&#x2F;a-tribute-to-the-windows-31-ho...</a>',
                 "time": 1666563758,
                 "type": "comment",
+                "show_answers": true,
             },
             33310824: {
                 "by": "dec0dedab0de",
@@ -612,6 +632,7 @@
                 "text": "There were preset themes. Some were dark.",
                 "time": 1666563476,
                 "type": "comment",
+                "show_answers": true,
             },
             33310989: {
                 "by": "metadat",
@@ -637,6 +658,7 @@
                 "text": "Well alright, but I was tech support for many Windows 98 users back in the day and wow did I hate microsoft. It was such a ridiculous  mess, like a house of cards. Fix one thing and another broke, cryptic dll packs when installed fixed some problems then needed patching again and again and again. And everyone blamed tech support. We were incompetent, the software came from god. fml I hate that os",
                 "time": 1666569932,
                 "type": "comment",
+                "show_answers": true,
             },
             33311462: {
                 "by": "int_19h",
@@ -646,6 +668,7 @@
                 "text": "I must have misremembered, then; my apologies. Perhaps it was a Win98 vs Win98 SE difference?",
                 "time": 1666569231,
                 "type": "comment",
+                "show_answers": true,
             },
             33311357: {
                 "by": "masswerk",
@@ -663,6 +686,7 @@
                 "text": "I adore the design language of Haiku &#x2F; BeOS for the same reason.",
                 "time": 1666568232,
                 "type": "comment",
+                "show_answers": true,
             },
             33311632: {
                 "by": "chillfox",
