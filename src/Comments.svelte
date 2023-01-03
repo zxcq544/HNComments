@@ -839,7 +839,7 @@
                 }
             }
         }
-        console.log(comments);
+        // console.log(comments);
     });
 </script>
 
